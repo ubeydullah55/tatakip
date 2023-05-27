@@ -1,0 +1,1140 @@
+ERROR - 2022-07-05 12:51:08 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-07-05 12:51:08 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Database\BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Login.php(24): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Login->kontrol()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 16:06:54 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 16:07:55 --> Class 'App\Models\OgrenciModelGelmeyenModel' not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 16:07:59 --> Class 'App\Models\OgrenciModelGelmeyenModel' not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 16:08:07 --> Class 'App\Models\OgrenciModelGelmeyenModel' not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 16:08:26 --> Class 'App\Models\OgrenciModelGelmeyenModel' not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 16:08:47 --> Undefined variable: modelgelmeyen
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(323): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 323, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-07-05 16:09:22 --> Unknown column 'ogrenci_no' in 'where clause'
+CRITICAL - 2022-07-05 16:09:22 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(338): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-07-05 16:10:08 --> Unknown column 'ogrenci_no' in 'where clause'
+CRITICAL - 2022-07-05 16:10:08 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(333): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunlukanaliz2('SabahNamazi')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-05 16:11:30 --> Undefined variable: sart
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:12:57 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunlukanal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunlukanal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:13:46 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:17:53 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:18:52 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:18:53 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:18:53 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:24:17 --> Trying to get property 'p_id' of non-object
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:24:35 --> Undefined variable: p_id
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:24:36 --> Undefined variable: p_id
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:25:13 --> Trying to get property 'p_id' of non-object
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:25:22 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:25:31 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:25:36 --> Undefined variable: p_id
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:27:57 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 16:28:47 --> Trying to get property 'p' of non-object
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:30:05 --> Undefined index: p_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:30:29 --> Undefined index: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:47:36 --> Trying to get property 'p_id' of non-object
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:47:47 --> Undefined variable: p_id
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 16:48:04 --> Undefined index: p_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:02:20 --> Undefined variable: dersler
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:02:30 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:02:43 --> syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:03:05 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:03:07 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:03:08 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:03:08 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:04:46 --> Undefined variable: dersler2
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:05:18 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:06:14 --> Undefined variable: dersler2
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:06:49 --> print_r() expects at least 1 parameter, 0 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r() expec...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): print_r()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-05 18:07:13 --> Undefined index: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:08:20 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:08:57 --> Undefined index: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:08:58 --> Undefined index: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:08:59 --> Undefined index: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:10:02 --> Undefined index: program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:10:27 --> Undefined index: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:10:38 --> Undefined index: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:11:34 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:11:35 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:12:03 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:15:08 --> Attempt to assign property 'program_ad' of non-object
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to assi...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:15:16 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:15:29 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:15:30 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:15:30 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:15:30 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:15:30 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:16:16 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:16:17 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:16:17 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:17:45 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:17:54 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:17:55 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:17:55 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:18:34 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:18:35 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:18:35 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:18:35 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:18:43 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:05 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:06 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:11 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:12 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:12 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:13 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:21 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:22 --> syntax error, unexpected ''program_ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunlukanal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunlukanal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:19:39 --> Undefined variable: dersler
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:21:47 --> Undefined offset: 0
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:21:53 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:22:22 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:22:23 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:22:23 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-07-05 18:28:48 --> Unknown column 'programlar.id' in 'where clause'
+CRITICAL - 2022-07-05 18:28:48 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, 'program_ad')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\BaseModel->find('program_ad')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-05 18:31:04 --> Undefined variable: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:31:40 --> Undefined variable: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:31:41 --> Undefined variable: program_ad
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 18:35:27 --> Undefined variable: sGelmeyenKiraatDersi
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 67, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(75): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 18:39:27 --> Trying to get property 'program_ad' of non-object
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(70): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 18:44:40 --> Undefined variable: sGelmeyen
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 56, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(70): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 18:44:55 --> syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(70): view('home', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 18:52:41 --> syntax error, unexpected '?'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(70): view('home', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 18:54:32 --> syntax error, unexpected 'program_ad' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(70): view('home', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 18:54:41 --> syntax error, unexpected '$row' (T_VARIABLE), expecting ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(70): view('home', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 19:01:51 --> Undefined variable: sRabita
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(271): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 271, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(70): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 19:33:46 --> Call to a member function where() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 19:34:25 --> Undefined variable: sGelmeyenYatsiNamazi
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(73): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 19:35:00 --> Undefined variable: sGelmeyenYatsiNamazi
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(73): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 19:35:08 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 19:35:16 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 19:35:17 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 19:35:17 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 19:35:17 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 19:36:16 --> Undefined variable: sGelmeyenYatsiNamazi
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 19:51:53 --> Can't use method return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-05 20:02:43 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(169): view('yoklama')
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-05 20:02:45 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-05 20:03:09 --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-05 20:04:58 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-05 20:23:32 --> syntax error, unexpected 'home' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-05 20:25:25 --> syntax error, unexpected 'home' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-07-05 20:25:31 --> syntax error, unexpected 'home' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-07-05 20:40:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 3
+CRITICAL - 2022-07-05 20:40:21 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(170): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-05 20:49:59 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:50:11 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:50:12 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:50:13 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:50:13 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:50:13 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:50:13 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:50:13 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(180): view('yoklama', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-05 20:53:28 --> Undefined variable: aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(299): view('yoklama')
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('KiraatDersi')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 20:54:03 --> Undefined variable: aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(299): view('yoklama')
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('KiraatDersi')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 20:54:49 --> Undefined variable: aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(299): view('yoklama')
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('YatsiNamazi')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 20:56:25 --> Undefined variable: aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(238): view('yoklama')
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('2', 'KiraatDersi', 'Abdul Wal\xC4\xB1', 'Jalalzada')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 21:01:47 --> Undefined variable: aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(301): view('yoklama')
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('KiraatDersi')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 21:03:58 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(194): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view('KiraatDersi')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 21:04:03 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(194): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view('Ders21')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 21:05:30 --> Undefined variable: aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(300): view('yoklama')
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('SabahNamazi')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 21:06:40 --> Undefined variable: program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(301): view('home')
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('SabahNamazi')
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 21:09:54 --> Call to undefined method App\Controllers\Home::redirect()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('Ders11')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 21:10:12 --> Call to undefined method App\Controllers\Home::redirect()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('Ders11')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 21:10:26 --> Call to undefined method App\Controllers\Home::redirect()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('Ders11')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 21:12:07 --> Call to undefined method App\Controllers\Home::redirect()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('Ders12')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-05 21:12:16 --> Call to undefined method App\Controllers\Home::redirect()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->genelyoklama('Ders12')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-07-05 21:40:25 --> Unknown column 'p_id!' in 'where clause'
+CRITICAL - 2022-07-05 21:40:25 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(182): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-07-05 21:40:31 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 21:40:31 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 21:40:32 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-05 21:45:22 --> Undefined variable: aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(74): view('home', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-05 21:47:56 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\yoklama.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(182): view('yoklama', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

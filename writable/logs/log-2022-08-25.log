@@ -1,0 +1,405 @@
+CRITICAL - 2022-08-25 10:19:21 --> Class "App\Controllers\Time" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('1', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:19:48 --> Class "App\Controllers\Time" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('1', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:19:53 --> Class "App\Controllers\Time" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('1', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:20:35 --> Class "App\Controllers\Time" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('3', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:21:19 --> Class "App\Controllers\Time" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('3', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:22:49 --> Class "App\Controllers\DateTime" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('3', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:22:50 --> Class "App\Controllers\DateTime" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('3', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:23:56 --> Class "App\Controllers\SAATTime" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('3', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:24:03 --> Class "App\Controllers\SAAT" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('3', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:24:19 --> date() expects at least 1 argument, 0 given
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(770): date()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('3', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 10:51:39 --> CodeIgniter\BaseModel::findAll(): Argument #1 ($limit) must be of type int, string given, called in C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php on line 786
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(786): CodeIgniter\BaseModel->findAll('id')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('2', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 10:53:12 --> Undefined constant "App\Controllers\id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 10:55:34 --> CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\catalcaferhatlartatakip\system\Model.php on line 800
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Model.php(800): CodeIgniter\Database\BaseBuilder->get('id')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(786): CodeIgniter\Model->__call('get', Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-25 10:57:16 --> Undefined variable $id
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(786): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 786)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 10:57:17 --> Undefined variable $id
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(786): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 786)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:00:35 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:01:07 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:01:47 --> Unsupported operand types: array + int
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 11:06:39 --> Unsupported operand types: array + int
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 11:11:42 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 11:11:58 --> Call to a member function row() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 11:11:58 --> Call to a member function row() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 11:16:10 --> Unsupported operand types: array + int
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-25 11:20:37 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:21:27 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:22:03 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:22:26 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:24:02 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:24:46 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:24:46 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:10 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:10 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:10 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:11 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:11 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:11 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:11 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:11 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:23 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:23 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:23 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:55 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:55 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:55 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:25:56 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:26:47 --> Too few arguments to function CodeIgniter\BaseModel::findColumn(), 0 passed in C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php on line 786 and exactly 1 expected
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(786): CodeIgniter\BaseModel->findColumn()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:30:42 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('6', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:36:42 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(787): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 787)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('2', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:59:05 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(796): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 796)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('23', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:59:11 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(796): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 796)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('67', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:59:14 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(796): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 796)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('93', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 11:59:17 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(796): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 796)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('225', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:09:33 --> syntax error, unexpected token ":", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_view')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_view')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:10:18 --> syntax error, unexpected token ":", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:10:36 --> syntax error, unexpected token ":", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:10:36 --> syntax error, unexpected token ":", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:18:44 --> A non-numeric value encountered
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(813): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\htdocs...', 813)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:19:51 --> A non-numeric value encountered
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(813): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\htdocs...', 813)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:21:15 --> Undefined array key "escDate"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(812): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 812)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-25 14:22:57 --> A non-numeric value encountered
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(814): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\htdocs...', 814)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('9', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

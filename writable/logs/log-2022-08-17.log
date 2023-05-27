@@ -1,0 +1,921 @@
+CRITICAL - 2022-08-17 15:32:49 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:33:06 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:33:07 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:33:07 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:55:43 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:03 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:04 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:04 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:04 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:20 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:21 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:21 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 15:56:21 --> Undefined variable $unset
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 196)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:11:26 --> Undefined array key "aktif_program_ad"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:12:14 --> syntax error, unexpected token "<"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:00 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:44 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:45 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:45 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:45 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:45 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:45 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:46 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:46 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:46 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:46 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:46 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:46 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:47 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:47 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:47 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:47 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:47 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:48 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:48 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:48 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:48 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:48 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:49 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:49 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:15:49 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:16:04 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:16:05 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:16:05 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:16:05 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:16:05 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:16:06 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:16:06 --> Undefined variable $adata
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:02 --> array_udiff(): Argument #2 must be a valid callback, class "SabahNamazi" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:21 --> array_udiff(): Argument #2 must be a valid callback, class "SabahNamazi" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:21 --> array_udiff(): Argument #2 must be a valid callback, class "SabahNamazi" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:21 --> array_udiff(): Argument #2 must be a valid callback, class "SabahNamazi" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:22 --> array_udiff(): Argument #2 must be a valid callback, class "SabahNamazi" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:38 --> array_udiff(): Argument #2 must be a valid callback, array must have exactly two members
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:38 --> array_udiff(): Argument #2 must be a valid callback, array must have exactly two members
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:23:38 --> array_udiff(): Argument #2 must be a valid callback, array must have exactly two members
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_udiff(Array, Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:27:51 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:28:24 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:28:26 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:28:26 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:28:26 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:28:26 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:28:27 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:29:32 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:29:44 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:29:45 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:29:45 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(201): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:42:11 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(202): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:45:22 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(202): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:45:23 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(202): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:45:30 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('yoklama', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(202): view('yoklama', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-17 16:49:38 --> Undefined array key "program_ad"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 16:51:48 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:00 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:12 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:20 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:21 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:35 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:35 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:36 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:36 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:36 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:36 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:50 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:50 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:50 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:50 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:51 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:51 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:52:51 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:53:09 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:54:03 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:54:03 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:54:03 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:54:03 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 16:54:04 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 198)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(198): array_diff(Array, Array)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-17 17:12:51 --> syntax error, unexpected token ",", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:02 --> Undefined array key "program_ad"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:03 --> Undefined array key "program_ad"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:03 --> Undefined array key "program_ad"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:03 --> Undefined array key "program_ad"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:03 --> Undefined array key "program_ad"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:18 --> Attempt to read property "program_ad" on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:18 --> Attempt to read property "program_ad" on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:18 --> Attempt to read property "program_ad" on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:18 --> Attempt to read property "program_ad" on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:19 --> Attempt to read property "program_ad" on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:27 --> syntax error, unexpected single-quoted string "program_ad", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:34 --> syntax error, unexpected token "=>", expecting ")"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:13:46 --> syntax error, unexpected token "=>", expecting ")"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:14:50 --> Undefined variable $aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:14:51 --> Undefined variable $aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:14:51 --> Undefined variable $aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:14:51 --> Undefined variable $aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:15:11 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:15:15 --> Undefined variable $aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:15:19 --> Undefined variable $aktif_program
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 199)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:19:21 --> Undefined array key 2
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 200)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:22:02 --> Undefined array key 2
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 200)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:23:02 --> Undefined array key 8
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 200)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:23:08 --> Undefined array key 2
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 200)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->yoklama_view()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-17 17:24:52 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

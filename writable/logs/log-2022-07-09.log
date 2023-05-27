@@ -1,0 +1,17 @@
+CRITICAL - 2022-07-09 00:08:27 --> There is no data to insert.
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(695): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->program_insert()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-09 00:12:27 --> syntax error, unexpected 'else' (T_ELSE)
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/programgos...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/programgos...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

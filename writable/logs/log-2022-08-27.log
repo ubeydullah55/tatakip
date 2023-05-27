@@ -1,0 +1,1025 @@
+CRITICAL - 2022-08-27 09:17:20 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 09:18:59 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('225', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 09:37:48 --> Call to a member function last_record() on null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('7', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 09:38:24 --> Call to a member function last_record() on null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('6', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 09:38:59 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(866): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 866)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('7', '1', 'openupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 09:39:05 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(825): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 825)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('7', '0', 'escupdate')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:00:41 --> Call to a member function getLastQuery() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('4', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 10:00:55 --> Call to a member function getLastQuery() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 10:01:12 --> Call to a member function getLastQuery() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 10:03:54 --> Unclosed '{' on line 9
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_view')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_view')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:04:30 --> Call to a member function getLastQuery() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 10:07:11 --> Call to undefined method App\Models\CarsiModel::last
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(838): CodeIgniter\Model->__call('last', Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:10:02 --> Call to a member function getLastQuery() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 10:10:06 --> Call to a member function getLastQuery() on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 10:13:38 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:13:54 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:13:54 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:13:54 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:13:54 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:13:55 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:14:17 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:16:41 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(840): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 840)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('5', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:17:51 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(839): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 839)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('17', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:18:45 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(840): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 840)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('17', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:46:51 --> syntax error, unexpected variable "$izingelis"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_inse...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_inse...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:50:39 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(840): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 840)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('106', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 10:53:05 --> Undefined array key "id"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(840): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 840)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('106', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 11:07:04 --> max() expects at least 1 argument, 0 given
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(838): max()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('11', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 11:08:25 --> syntax error, unexpected token "if", expecting "function" or "const"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_view')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_view')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 11:08:28 --> syntax error, unexpected token "if", expecting "function" or "const"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 11:10:04 --> max() expects at least 1 argument, 0 given
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(838): max()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('106', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 11:13:57 --> Call to undefined method App\Models\CarsiModel::last
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(838): CodeIgniter\Model->__call('last', Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('106', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 11:14:24 --> Call to undefined method App\Models\CarsiModel::second
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(838): CodeIgniter\Model->__call('second', Array)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_insert('106', '2', 'openinsert')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 12:44:37 --> Undefined array key "geckalmasayisi"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(927): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 927)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 16:58:38 --> Undefined array key "geckalmasayisi"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(927): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 927)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:22:57 --> syntax error, unexpected token "exit"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:34:42 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:34:52 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:34:53 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:35:17 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:35:17 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:14 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:14 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:15 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:15 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:15 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:15 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:15 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:36:34 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:39:55 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:40:10 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:40:10 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:40:11 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/toplu_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/toplu_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:40:59 --> Undefined array key "today"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(900): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 900)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-08-27 17:42:44 --> Unknown column 'date' in 'where clause'
+CRITICAL - 2022-08-27 17:42:44 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(916): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-27 17:46:11 --> Undefined array key "escDate"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(908): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 908)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:47:22 --> Undefined array key "date"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(908): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 908)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:47:23 --> Undefined array key "date"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(908): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 908)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:47:23 --> Undefined array key "date"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(908): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 908)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 17:47:24 --> Undefined array key "date"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(908): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 908)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:20:04 --> Undefined array key "escDate"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(939): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 939)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:22:09 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(941): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 18:22:36 --> Attempt to read property "ad" on array
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(941): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 18:22:45 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 72)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(941): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 18:22:59 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(941): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 18:25:37 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(941): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 18:29:31 --> Array to string conversion
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 72)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(941): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-08-27 18:31:06 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:06 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:42 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:42 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:42 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:42 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:43 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:43 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:43 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:43 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:43 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:43 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:43 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:43 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:44 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:44 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:31:44 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:31:44 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:14 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:14 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:15 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:15 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:15 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:15 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:15 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:15 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:15 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:15 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:15 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:15 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:16 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:16 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:16 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:16 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:16 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:16 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 18:32:16 --> Unknown column 'sure' in 'field list'
+CRITICAL - 2022-08-27 18:32:16 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(933): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-27 18:33:39 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(942): view('carsi_analiz', Array)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-27 18:46:38 --> syntax error, unexpected double-quoted string "saat", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:46:46 --> syntax error, unexpected double-quoted string "saat", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:46:47 --> syntax error, unexpected double-quoted string "saat", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:46:48 --> syntax error, unexpected double-quoted string "saat", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:46:48 --> syntax error, unexpected double-quoted string "saat", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:47:07 --> syntax error, unexpected variable "$row", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:51:58 --> syntax error, unexpected variable "$ekle"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:52:07 --> syntax error, unexpected variable "$ekle"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:54:06 --> syntax error, unexpected identifier "½60", expecting "]"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 18:54:21 --> Undefined array key "sure"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(944): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 18:55:31 --> Undefined array key "sure"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 76)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(944): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 18:55:32 --> Undefined array key "sure"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 76)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(944): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 21:20:02 --> Unclosed '[' on line 927 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:20:15 --> Unclosed '[' on line 927 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:20:15 --> Unclosed '[' on line 927 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:21:16 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:21:16 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:21:17 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:21:17 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:22:06 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:22:07 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:22:07 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:22:07 --> Unclosed '[' on line 928 does not match ')'
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 21:22:36 --> Class "App\Models\OgrenciiModelCarsi" not found
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-27 21:22:57 --> Trying to access array offset on value of type int
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\app\Views\carsi_analiz.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 76)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 23:09:36 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 23:10:01 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/carsi_Anal...')
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/carsi_Anal...')
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-08-27 23:11:20 --> Unknown column '2022/08/27' in 'where clause'
+CRITICAL - 2022-08-27 23:11:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(916): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 23:14:05 --> Unknown column '2022/08/27' in 'where clause'
+CRITICAL - 2022-08-27 23:14:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(916): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 23:14:18 --> Unknown column '2022/08/27' in 'where clause'
+CRITICAL - 2022-08-27 23:14:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(538): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(916): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-27 23:14:40 --> Unknown column '2022/08/27' in 'where clause'
+CRITICAL - 2022-08-27 23:14:40 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(916): CodeIgniter\BaseModel->first()
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-27 23:40:20 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:41:23 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:41:59 --> syntax error, unexpected string content "", expecting "-" or identifier or variable or number
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:42:41 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:43:00 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:44:47 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:45:08 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:45:31 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:45:37 --> syntax error, unexpected token "endforeach"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:48:22 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:48:38 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:50:39 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-27 23:50:54 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\catalcaferhatlartatakip\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\catalcaferhatlartatakip\system\Common.php(1271): CodeIgniter\View\View->render('carsi_analiz', Array, true)
+#2 C:\xampp\htdocs\catalcaferhatlartatakip\app\Controllers\Home.php(945): view('carsi_analiz', Array)
+#3 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(928): App\Controllers\Home->carsi_Analiz()
+#4 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\catalcaferhatlartatakip\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\catalcaferhatlartatakip\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

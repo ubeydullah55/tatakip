@@ -1,0 +1,137 @@
+CRITICAL - 2022-09-04 16:13:41 --> Trying to access array offset on value of type null
+#0 /home/u0521406/public_html/app/Views/tekDers.php(178): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/u0521406/public_html/system/View/View.php(230): include('/home/u0521406/...')
+#2 /home/u0521406/public_html/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/u0521406/public_html/system/Common.php(1271): CodeIgniter\View\View->render()
+#4 /home/u0521406/public_html/app/Controllers/Home.php(1325): view()
+#5 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->tekDers_Analiz()
+#6 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#7 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-04 16:38:25 --> syntax error, unexpected integer "00", expecting ")"
+#0 /home/u0521406/public_html/system/Router/Router.php(169): CodeIgniter\Router\Router->autoRoute()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(809): CodeIgniter\Router\Router->handle()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 16:38:39 --> syntax error, unexpected integer "00", expecting ")"
+#0 /home/u0521406/public_html/system/Router/Router.php(169): CodeIgniter\Router\Router->autoRoute()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(809): CodeIgniter\Router\Router->handle()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 16:38:40 --> syntax error, unexpected integer "00", expecting ")"
+#0 /home/u0521406/public_html/system/Router/Router.php(169): CodeIgniter\Router\Router->autoRoute()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(809): CodeIgniter\Router\Router->handle()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 22:07:05 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Views/genel_analiz_all.php(85): round()
+#1 /home/u0521406/public_html/system/View/View.php(230): include('/home/u0521406/...')
+#2 /home/u0521406/public_html/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/u0521406/public_html/system/Common.php(1271): CodeIgniter\View\View->render()
+#4 /home/u0521406/public_html/app/Controllers/Home.php(654): view()
+#5 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#6 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#7 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-04 22:07:38 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Views/genel_analiz_all.php(85): round()
+#1 /home/u0521406/public_html/system/View/View.php(230): include('/home/u0521406/...')
+#2 /home/u0521406/public_html/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/u0521406/public_html/system/Common.php(1271): CodeIgniter\View\View->render()
+#4 /home/u0521406/public_html/app/Controllers/Home.php(654): view()
+#5 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#6 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#7 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-04 22:07:38 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Views/genel_analiz_all.php(85): round()
+#1 /home/u0521406/public_html/system/View/View.php(230): include('/home/u0521406/...')
+#2 /home/u0521406/public_html/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/u0521406/public_html/system/Common.php(1271): CodeIgniter\View\View->render()
+#4 /home/u0521406/public_html/app/Controllers/Home.php(654): view()
+#5 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#6 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#7 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-04 22:10:46 --> Call to undefined function App\Controllers\cound()
+#0 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-04 22:11:18 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Controllers/Home.php(646): round()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 22:11:19 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Controllers/Home.php(646): round()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 22:11:19 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Controllers/Home.php(646): round()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 22:11:19 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Controllers/Home.php(646): round()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 22:11:44 --> round(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Controllers/Home.php(646): round()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 22:12:02 --> Call to undefined function App\Controllers\int()
+#0 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-04 22:12:02 --> Call to undefined function App\Controllers\int()
+#0 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-04 22:12:03 --> Call to undefined function App\Controllers\int()
+#0 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-04 22:13:26 --> ceil(): Argument #1 ($num) must be of type int|float, string given
+#0 /home/u0521406/public_html/app/Controllers/Home.php(646): ceil()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->toplu_Analiz()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-04 22:13:54 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-09-04 22:13:54 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

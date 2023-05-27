@@ -1,0 +1,1278 @@
+CRITICAL - 2022-01-23 05:04:01 --> Use of undefined constant ogrenci_no - assumed 'ogrenci_no' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(43): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 05:04:06 --> Use of undefined constant ogrenci_no - assumed 'ogrenci_no' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(43): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 05:04:31 --> Use of undefined constant ogrenci_no - assumed 'ogrenci_no' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(43): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 05:04:35 --> Use of undefined constant ogrenci_no - assumed 'ogrenci_no' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(43): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 05:04:38 --> Use of undefined constant ogrenci_no - assumed 'ogrenci_no' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(43): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 05:28:33 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(43): view('gunluk_yoklama_...', Array)
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 05:30:33 --> syntax error, unexpected 'baslik' (T_STRING), expecting ']'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 05:30:40 --> syntax error, unexpected 'baslik' (T_STRING), expecting ']'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 05:30:41 --> syntax error, unexpected 'baslik' (T_STRING), expecting ']'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 05:30:42 --> syntax error, unexpected 'baslik' (T_STRING), expecting ']'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 05:38:59 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 05:39:17 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-23 06:54:48 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 06:54:48 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '48')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(50): CodeIgniter\BaseModel->find('48')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 06:56:03 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 06:56:03 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '48')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(50): CodeIgniter\BaseModel->find('48')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 06:56:10 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 06:56:10 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '48')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(50): CodeIgniter\BaseModel->find('48')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 06:57:23 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 06:57:23 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '48')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(50): CodeIgniter\BaseModel->find('48')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 06:58:15 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 06:58:15 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '48')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(50): CodeIgniter\BaseModel->find('48')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 06:58:18 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 06:58:18 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '48')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(50): CodeIgniter\BaseModel->find('48')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 07:02:54 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 07:02:54 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '48')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(51): CodeIgniter\BaseModel->find('48')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 07:04:13 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 07:04:13 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '94')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(51): CodeIgniter\BaseModel->find('94')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 07:04:19 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 07:04:19 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '94')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(51): CodeIgniter\BaseModel->find('94')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-01-23 07:04:28 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 07:04:28 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, '94')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(51): CodeIgniter\BaseModel->find('94')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-23 07:09:44 --> Argument 3 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\cd4\app\Controllers\Home.php on line 43
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(43): view('gunluk_yoklama_...', Array, 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:25 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/index')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/index')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:27 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:29 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:35 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:35 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:35 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:35 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:36 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:37 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:43:40 --> syntax error, unexpected ']', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 07:50:45 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 07:51:32 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 07:51:32 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 07:51:42 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\gunluk_yoklama_liste2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 07:55:35 --> syntax error, unexpected '<', expecting end of file
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 07:55:57 --> syntax error, unexpected '<', expecting end of file
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 07:55:58 --> syntax error, unexpected '<', expecting end of file
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 07:55:58 --> syntax error, unexpected '<', expecting end of file
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 07:56:01 --> syntax error, unexpected '<', expecting end of file
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('gunluk_yoklama_...', Array, true)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(44): view('gunluk_yoklama_...', Array)
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gunluk_yoklama_liste_view2('Rabita')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-01-23 10:06:09 --> Column 'ad' cannot be null
+ERROR - 2022-01-23 10:07:19 --> Column 'ad' cannot be null
+ERROR - 2022-01-23 10:07:22 --> Column 'ad' cannot be null
+ERROR - 2022-01-23 10:07:30 --> Column 'ad' cannot be null
+ERROR - 2022-01-23 10:07:50 --> Column 'ad' cannot be null
+ERROR - 2022-01-23 10:08:06 --> Column 'ad' cannot be null
+ERROR - 2022-01-23 10:08:37 --> Column 'ad' cannot be null
+ERROR - 2022-01-23 10:09:45 --> Column 'ad' cannot be null
+CRITICAL - 2022-01-23 10:13:17 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gecinsert/...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gecinsert/...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:13:50 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gecinsert/...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gecinsert/...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:30:39 --> Attempt to assign property 'tel' of non-object
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to assi...', 'C:\\xampp\\htdocs...', 55, Array)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:31:00 --> Attempt to assign property 'tel' of non-object
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to assi...', 'C:\\xampp\\htdocs...', 55, Array)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:34:34 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:34:36 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:35:13 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:35:14 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:35:15 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:35:15 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:35:15 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:35:15 --> syntax error, unexpected ''ad'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 10:35:33 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\deneme.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('deneme', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(57): view('deneme', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 10:35:51 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\deneme.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('deneme', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(57): view('deneme', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 10:37:04 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('deneme', Array, true)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(57): view('deneme', Array)
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94', 'Rabita')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 10:40:27 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:40:49 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:46:28 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:46:39 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:46:53 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:47:20 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:47:41 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:48:04 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:49:52 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:50:06 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:50:12 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:50:15 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 10:50:32 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 55, Array)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:43:52 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:44:12 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:44:13 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:44:13 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:44:13 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:44:14 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:44:14 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:44:15 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:45:41 --> Call to a member function getResult() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:45:53 --> Call to a member function getResult() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:45:54 --> Call to a member function getResult() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:46:05 --> Call to a member function getResult() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:47:35 --> Call to a member function getResult() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:47:40 --> Call to a member function getResult() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:51:06 --> Use of undefined constant ad - assumed 'ad' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:58:03 --> Call to undefined function App\Controllers\result()
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:58:14 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:58:16 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:58:18 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:58:33 --> Call to a member function row() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:58:36 --> Call to a member function row() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 11:58:54 --> Call to undefined method App\Models\UsersModel::row
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(53): CodeIgniter\Model->__call('row', Array)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 11:58:57 --> Call to undefined method App\Models\UsersModel::row
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(53): CodeIgniter\Model->__call('row', Array)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 12:03:22 --> Class 'App\Controllers\stdclass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:18:18 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:18:22 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:18:44 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:18:46 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:19:02 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:19:55 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:19:57 --> Class 'App\Controllers\stdClass' not found
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:20:05 --> Creating default object from empty value
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 12:28:14 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:28:22 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:28:43 --> Cannot use [] for reading
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-23 12:29:55 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:30:06 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:33:42 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\deneme.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('deneme', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(61): view('deneme', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 12:34:06 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\cd4\app\Controllers\Home.php on line 60
+#0 C:\xampp\htdocs\cd4\app\Controllers\Home.php(60): view('deneme', NULL)
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 12:34:19 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\cd4\app\Views\deneme.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('deneme', Array, true)
+#4 C:\xampp\htdocs\cd4\app\Controllers\Home.php(60): view('deneme', Array)
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#6 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-23 12:35:50 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gecinsert/...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gecinsert/...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 12:36:04 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gecinsert/...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gecinsert/...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 12:45:55 --> Call to a member function result_array() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:46:00 --> Call to a member function result_array() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-01-23 12:46:48 --> Unknown column 'ogrenci.id' in 'where clause'
+CRITICAL - 2022-01-23 12:46:48 --> Call to a member function getFirstRow() on bool
+#0 C:\xampp\htdocs\cd4\system\BaseModel.php(538): CodeIgniter\Model->doFind(true, 'ad')
+#1 C:\xampp\htdocs\cd4\app\Controllers\Home.php(53): CodeIgniter\BaseModel->find('ad')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-23 12:48:27 --> Call to a member function getResult_array() on array
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 12:49:42 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gecinsert/...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gecinsert/...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 12:49:44 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/gunluk_yok...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/gunluk_yok...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 12:49:44 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home/yoklama_vi...')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home/yoklama_vi...')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-23 13:11:31 --> Too few arguments to function App\Controllers\Home::gecinsert(), 2 passed in C:\xampp\htdocs\cd4\system\CodeIgniter.php on line 928 and exactly 3 expected
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-01-23 13:24:09 --> Duplicate entry '48' for key 'PRIMARY'
+CRITICAL - 2022-01-23 13:24:09 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(64): redirect('home/public fun...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-01-23 13:24:27 --> Duplicate entry '48' for key 'PRIMARY'
+ERROR - 2022-01-23 13:24:44 --> Duplicate entry '48' for key 'PRIMARY'
+ERROR - 2022-01-23 13:25:15 --> Duplicate entry '94' for key 'PRIMARY'
+ERROR - 2022-01-23 13:26:07 --> Duplicate entry '105' for key 'PRIMARY'
+ERROR - 2022-01-23 13:26:48 --> Duplicate entry '105' for key 'PRIMARY'
+ERROR - 2022-01-23 13:26:49 --> Duplicate entry '105' for key 'PRIMARY'
+ERROR - 2022-01-23 13:27:22 --> Duplicate entry '105' for key 'PRIMARY'
+ERROR - 2022-01-23 13:27:25 --> Duplicate entry '105' for key 'PRIMARY'
+CRITICAL - 2022-01-23 13:32:19 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('Home/gunluk_yok...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('105', 'Rabita', 'ubeydullah', 'do\xC4\x9Fan')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:32:29 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('Home')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('105', 'Rabita', 'ubeydullah', 'do\xC4\x9Fan')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:32:40 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('105', 'Rabita', 'ubeydullah', 'do\xC4\x9Fan')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:33:05 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('index')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('105', 'Rabita', 'ubeydullah', 'do\xC4\x9Fan')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:33:08 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('index')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:34:19 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('http://localhos...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('103', 'Rabita', 'mertcan', 'y\xC4\xB1ld\xC4\xB1r\xC4\xB1m')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:35:01 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('http://localhos...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94', 'Rabita', 'idris', 'tutayev')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:44:23 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home/ogrenci_ek...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:44:56 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(14): redirect('home/ogrenci_ek...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:45:17 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home/ogrenci_ek...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:47:24 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home/ogrenci_ek...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:47:41 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home/ogrenci_ek...')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94', 'Rabita', 'idris', 'tutayev')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-01-23 13:49:57 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:57 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:57 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:58 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:49:59 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:00 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:01 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:01 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:01 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:01 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:01 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:01 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:04 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:09 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:09 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:09 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:09 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:09 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:10 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:11 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:12 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:13 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:13 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:13 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:13 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:22 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:23 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:23 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:23 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:23 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:23 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:23 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:23 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:24 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:24 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:24 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:24 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:24 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:24 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:24 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:25 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:30 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:30 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:31 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:32 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:32 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:50:32 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:02 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:03 --> Column 'sure' cannot be null
+ERROR - 2022-01-23 13:51:10 --> Column 'sure' cannot be null
+CRITICAL - 2022-01-23 13:51:10 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94', 'Rabita', 'idris', 'tutayev')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:51:13 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:51:30 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(63): redirect('home/index')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:52:29 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 13:52:41 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 13:53:30 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 13:54:47 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 13:54:54 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 13:56:13 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94', 'Rabita', 'idris', 'tutayev')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-23 13:58:39 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(64): redirect('home', 'refresh')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('94', 'Rabita', 'idris', 'tutayev')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-23 13:59:12 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\cd4\system\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\cd4\system\Common.php(972): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\cd4\app\Controllers\Home.php(65): redirect('home')
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->gecinsert('48', 'Rabita', 'adip', 'afiq')
+#4 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

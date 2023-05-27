@@ -1,0 +1,181 @@
+CRITICAL - 2022-01-21 08:25:21 --> syntax error, unexpected '$newDate' (T_VARIABLE), expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:25:40 --> syntax error, unexpected '$newDate' (T_VARIABLE), expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:40:52 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:41:32 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:42:58 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:45:57 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:46:55 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:47:00 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:50:10 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:50:44 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:51:32 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:51:58 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:52:18 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:54:55 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:55:08 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:59:18 --> syntax error, unexpected ')', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:59:27 --> syntax error, unexpected ')', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 08:59:55 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 09:03:33 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 09:05:10 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 09:05:37 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 09:05:52 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 09:06:56 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 09:50:57 --> syntax error, unexpected ';', expecting ')'
+#0 C:\xampp\htdocs\cd4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('form/save')
+#1 C:\xampp\htdocs\cd4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('form/save')
+#2 C:\xampp\htdocs\cd4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-21 11:39:25 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\cd4\system\View\View.php(487): CodeIgniter\View\View->render('include/leftmen...', NULL, true)
+#2 C:\xampp\htdocs\cd4\app\Views\home.php(2): CodeIgniter\View\View->include('include/leftmen...')
+#3 C:\xampp\htdocs\cd4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cd4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\cd4\system\Common.php(1271): CodeIgniter\View\View->render('home', Array, true)
+#6 C:\xampp\htdocs\cd4\app\Controllers\Home.php(10): view('home')
+#7 C:\xampp\htdocs\cd4\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\cd4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\cd4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cd4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

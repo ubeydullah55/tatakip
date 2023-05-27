@@ -1,0 +1,14 @@
+CRITICAL - 2022-09-21 09:36:08 --> Trying to access array offset on value of type null
+#0 /home/u0521406/public_html/app/Controllers/Home.php(1109): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->hizmet_insert()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 09:36:10 --> Trying to access array offset on value of type null
+#0 /home/u0521406/public_html/app/Controllers/Home.php(1109): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/u0521406/public_html/system/CodeIgniter.php(928): App\Controllers\Home->hizmet_insert()
+#2 /home/u0521406/public_html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#3 /home/u0521406/public_html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u0521406/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
